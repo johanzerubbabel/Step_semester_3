@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 public class BusiestBusRow {
-    // Complexity: Time O(r * c), Additional space O(1).
-    // The best row changes only when a total is strictly larger,
-    // so a tie keeps the smaller row index.
     static int[] busiestRow(int[][] grid) {
         int bestRow = 0, bestTotal = -1;
         for (int i = 0; i < grid.length; i++) {

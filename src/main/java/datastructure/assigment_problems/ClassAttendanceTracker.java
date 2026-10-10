@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class ClassAttendanceTracker {
-    // Complexity: Time O(n), Space O(1).
-    // Yes, both answers come from a single pass.
     static int[] attendanceSummary(int[] days) {
         int present = 0, streak = 0, longest = 0;
         for (int d : days) {

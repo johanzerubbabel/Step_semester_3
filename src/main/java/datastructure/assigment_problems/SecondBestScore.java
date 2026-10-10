@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class SecondBestScore {
-    // Complexity: Time O(n), Space O(1).
-    // Sorting first would cost O(n log n) time, so one pass is faster.
     static int secondHighest(int[] scores) {
         int highest = -1, second = -1;
         for (int s : scores) {
