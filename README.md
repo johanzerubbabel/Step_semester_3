@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Date: 10-10-2026
 **Today's Work:**
 - Solved 15 datastructure problems (10 class, 5 assignment) on feature/session_8
@@ -31,6 +32,8 @@
 - None
 
 ---
+=======
+>>>>>>> be72a98 (Update README after session 5)
 ## Date: 19-09-2026
 **Today's Work:**
 - Solved 10 encapsulation problems (5 class, 5 assignment) on feature/session_5
@@ -42,6 +45,7 @@
 - None
 
 ---
+<<<<<<< HEAD
 ## Date: 12-09-2026
 **Today's Work:**
 - Solved 10 classesobjects problems (5 class, 5 assignment) on feature/session_4
@@ -51,6 +55,18 @@
 
 **Issues Faced:**
 - None
+=======
+##Date: 12-09-2026
+**Today's Work:**
+
+- Solved 10 classesobjects problems (5 class, 5 assignment) on feature/session_4
+**Next Session Plan:**
+
+- Continue with next session's topic
+**Issues Faced:**
+
+-None
+>>>>>>> be72a98 (Update README after session 5)
 
 ---
 ## Date: 05-09-2026
